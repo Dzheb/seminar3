@@ -23,3 +23,6 @@ git reset git revert позволяют отменять изменения. К�
 ## Удаление веток
 ## Скачивание удалённого репозитория
 ## 
+PS C:\GB\1qt\git\seminargit2> git remote add origin https://github.com/Dzheb/seminar3.git
+PS C:\GB\1qt\git\seminargit2> git branch -M master
+PS C:\GB\1qt\git\seminargit2> git push origin master
